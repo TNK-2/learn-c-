@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-  cout << "hello world" << endl;
+  cout << "私は" << 43 << "才です。" << endl;
 }
